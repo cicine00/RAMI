@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker-compose up:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(npm test)",
+      "Bash(npx tsc:*)",
+      "Bash(npx create-expo-app:*)",
+      "Bash(npx expo install:*)",
+      "Bash(npm start)",
+      "Bash(npm start:*)",
+      "Bash(npm run web:*)",
+      "Bash(npx kill-port:*)"
+    ]
+  }
+}
